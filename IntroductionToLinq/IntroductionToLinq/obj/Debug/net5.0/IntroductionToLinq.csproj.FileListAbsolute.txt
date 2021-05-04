@@ -1,0 +1,32 @@
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.exe
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.deps.json
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.runtimeconfig.json
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.runtimeconfig.dev.json
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.dll
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\ref\IntroductionToLinq.dll
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.pdb
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.csprojAssemblyReference.cache
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.AssemblyInfoInputs.cache
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.AssemblyInfo.cs
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.csproj.CoreCompileInputs.cache
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.dll
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\ref\IntroductionToLinq.dll
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.pdb
+C:\Users\jbt\Documents\91559.1\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.genruntimeconfig.cache
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.exe
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.deps.json
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.runtimeconfig.json
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.runtimeconfig.dev.json
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.dll
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\ref\IntroductionToLinq.dll
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\bin\Debug\net5.0\IntroductionToLinq.pdb
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.csprojAssemblyReference.cache
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.AssemblyInfoInputs.cache
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.AssemblyInfo.cs
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.csproj.CoreCompileInputs.cache
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.dll
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\ref\IntroductionToLinq.dll
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.pdb
+C:\Projects\ASP.Net 5 & Angular\IntroductionToLinq\IntroductionToLinq\IntroductionToLinq\obj\Debug\net5.0\IntroductionToLinq.genruntimeconfig.cache
